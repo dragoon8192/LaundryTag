@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T09:56:37.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dEzUs3f18vVWvGhyT3cE" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-06T09:57:23.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="G7RP5ctq2JoZZtu2x-AG" version="20.4.0" type="github" pages="4">
   <diagram id="YHXNMDAUgjNIEf82KM6D" name="affine">
     <mxGraphModel dx="371" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -668,8 +668,8 @@
         <mxCell id="Oncq0mNwk4Wi2XNuhxc5-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;x&lt;/i&gt;&lt;span style=&quot;font-size: 6.94444px;&quot;&gt;&lt;sub style=&quot;&quot;&gt;&amp;nbsp;&lt;i&gt;n&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Oncq0mNwk4Wi2XNuhxc5-1">
           <mxGeometry x="120" y="420" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Oncq0mNwk4Wi2XNuhxc5-23" value="Flatten Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=12;fontFamily=Times New Roman;fontColor=default;spacing=0;" vertex="1" parent="Oncq0mNwk4Wi2XNuhxc5-1">
-          <mxGeometry x="160" y="469.995641025641" width="80" height="20" as="geometry" />
+        <mxCell id="Oncq0mNwk4Wi2XNuhxc5-23" value="Dropout Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=12;fontFamily=Times New Roman;fontColor=default;spacing=0;" vertex="1" parent="Oncq0mNwk4Wi2XNuhxc5-1">
+          <mxGeometry x="155" y="469.995641025641" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Oncq0mNwk4Wi2XNuhxc5-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;y&lt;/i&gt;&lt;span style=&quot;font-size: 6.94444px;&quot;&gt;&lt;sub style=&quot;&quot;&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Oncq0mNwk4Wi2XNuhxc5-1">
           <mxGeometry x="240" y="419.9997435897436" width="37.94871794871795" height="37.94871794871795" as="geometry" />
