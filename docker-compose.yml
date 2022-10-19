@@ -2,12 +2,12 @@ version: '0.1'
 services:
   tensorflow-gpu:
     restart: always
-    image: tensorflow/tensorflow:latest-gpu
+    build: .
     container_name: tensorflow-gpu
     working_dir: '/root/src'
     tty: true
     volumes:
-      - src:/root/src
+      - ./src:/root/src
     deploy:
       resources:
         reservations:
