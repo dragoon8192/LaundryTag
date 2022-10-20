@@ -1,5 +1,4 @@
 import tensorflow as tf
-import numpy as np
 from nptyping import NDArray, Shape, UInt8, Float, Float32, assert_isinstance
 
 def main() -> None:
