@@ -3,14 +3,10 @@ services:
   tensorflow-gpu:
     build: .
     container_name: tensorflow-gpu
-    environment:
-      - DISPLAY=${DISPLAY}
-    network_mode: 'host'
     restart: always
     tty: true
     volumes:
       - ./src:/root/src:ro
-      - ~/.Xauthority:/root/.Xauthority:ro
     working_dir: '/root'
     deploy:
       resources:
