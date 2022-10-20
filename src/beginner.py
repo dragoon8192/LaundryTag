@@ -36,8 +36,8 @@ def main() -> None:
         model,
         tf.keras.layers.Softmax()
     ])
-    probabilities = probability_model( x_test[:5] )
-    print( 'probability_model( x_test[:5] ) = {0}'.format( probabilities ))
+    probabilities = probability_model( x_test[:5] ).numpy()
+    print( 'probability_model( x_test[:5] ).numpy() = {0}'.format( probabilities ))
 
 if __name__ == '__main__':
     main()
