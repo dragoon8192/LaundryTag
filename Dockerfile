@@ -1,5 +1,6 @@
 FROM tensorflow/tensorflow:latest-gpu
 USER root
+WORKDIR /root
 
 RUN apt update
 RUN apt -y install locales && \
@@ -9,4 +10,4 @@ ENV LANGUAGE ja_JP:ja
 ENV LC_ALL ja_JP.UTF-8
 ENV TZ JST-9
 
-WORKDIR /root
+RUN pip3 install nptyping
