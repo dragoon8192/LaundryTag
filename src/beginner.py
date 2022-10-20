@@ -1,11 +1,9 @@
 import tensorflow as tf
-import numpy as np
 
 def main() -> None:
 
     mnist = tf.keras.datasets.mnist
     ( x_train_int, y_train ), ( x_test_int, y_test ) = mnist.load_data()
-
     x_train = x_train_int / 255.0
     x_test  = x_test_int / 255.0
 
