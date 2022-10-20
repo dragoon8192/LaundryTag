@@ -1,6 +1,4 @@
 FROM tensorflow/tensorflow:latest-gpu
-USER root
-WORKDIR /root
 
 RUN apt update
 RUN apt -y install locales && \
