@@ -1,0 +1,10 @@
+version: '2'
+services:
+  tensorflow-gpu-jupyter:
+    image: tensorflow/tensorflow:latest-gpu-jupyter
+    container_name: tensorflow-gpu-jupyter
+    ports:
+      - '8888:8888'
+    volumes:
+      - ./src:/tf/src:ro
+    working_dir: '/tf'
