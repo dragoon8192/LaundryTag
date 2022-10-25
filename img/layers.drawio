@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T22:08:37.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WTpRiqwXX5H3WegbnT5m" version="20.4.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-10-25T22:10:52.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gSwQUBMGA8Dp9E4yleh0" version="20.4.1" type="github" pages="9">
   <diagram id="YHXNMDAUgjNIEf82KM6D" name="affine">
     <mxGraphModel dx="737" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1014,7 +1014,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="convolution" id="hgHvU0aWmMi158R4lx_E">
-    <mxGraphModel dx="351" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="205" dy="204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5cntNId_CgsFwuT-kjVo-0" />
         <mxCell id="5cntNId_CgsFwuT-kjVo-1" parent="5cntNId_CgsFwuT-kjVo-0" />
@@ -1066,7 +1066,7 @@
             <mxPoint x="130" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5cntNId_CgsFwuT-kjVo-21" value="&lt;i&gt;⊛&lt;/i&gt;" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;sketch=0;strokeColor=#4D4D4D;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;startSize=4;endSize=4;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shape=connector;jumpStyle=none;jumpSize=4;" edge="1" parent="5cntNId_CgsFwuT-kjVo-1" source="5cntNId_CgsFwuT-kjVo-41" target="5cntNId_CgsFwuT-kjVo-45">
+        <mxCell id="5cntNId_CgsFwuT-kjVo-21" value="&lt;i&gt;⊛ K&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;&lt;i&gt;r&lt;/i&gt;1&lt;/sub&gt;" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;sketch=0;strokeColor=#4D4D4D;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;startSize=4;endSize=4;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shape=connector;jumpStyle=none;jumpSize=4;" edge="1" parent="5cntNId_CgsFwuT-kjVo-1" source="5cntNId_CgsFwuT-kjVo-41" target="5cntNId_CgsFwuT-kjVo-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="350" as="sourcePoint" />
             <mxPoint x="250" y="300" as="targetPoint" />
@@ -1104,13 +1104,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5cntNId_CgsFwuT-kjVo-38" value="&lt;i&gt;W&lt;/i&gt;&lt;sub&gt;12&lt;/sub&gt;×" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;sketch=0;strokeColor=#4D4D4D;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;startSize=4;endSize=4;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shape=connector;jumpStyle=none;jumpSize=4;" edge="1" parent="5cntNId_CgsFwuT-kjVo-1" source="5cntNId_CgsFwuT-kjVo-42" target="5cntNId_CgsFwuT-kjVo-45">
+        <mxCell id="5cntNId_CgsFwuT-kjVo-38" value="&lt;i&gt;⊛ K&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;&lt;i&gt;g&lt;/i&gt;1&lt;/sub&gt;" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;sketch=0;strokeColor=#4D4D4D;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;startSize=4;endSize=4;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shape=connector;jumpStyle=none;jumpSize=4;" edge="1" parent="5cntNId_CgsFwuT-kjVo-1" source="5cntNId_CgsFwuT-kjVo-42" target="5cntNId_CgsFwuT-kjVo-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="168.9915063440793" y="183.7292196033701" as="sourcePoint" />
             <mxPoint x="251.02633403898983" y="156.3245553203368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5cntNId_CgsFwuT-kjVo-39" value="&lt;i&gt;W&lt;/i&gt;&lt;sub&gt;13&lt;/sub&gt;×" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;sketch=0;strokeColor=#4D4D4D;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;startSize=4;endSize=4;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shape=connector;jumpStyle=none;jumpSize=4;" edge="1" parent="5cntNId_CgsFwuT-kjVo-1" source="5cntNId_CgsFwuT-kjVo-43" target="5cntNId_CgsFwuT-kjVo-45">
+        <mxCell id="5cntNId_CgsFwuT-kjVo-39" value="&lt;i&gt;⊛ K&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;&lt;i&gt;b&lt;/i&gt;1&lt;/sub&gt;" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;sketch=0;strokeColor=#4D4D4D;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;startSize=4;endSize=4;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shape=connector;jumpStyle=none;jumpSize=4;" edge="1" parent="5cntNId_CgsFwuT-kjVo-1" source="5cntNId_CgsFwuT-kjVo-43" target="5cntNId_CgsFwuT-kjVo-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="165.3471792718468" y="237.175644718046" as="sourcePoint" />
             <mxPoint x="254.63557440805414" y="162.80368799328835" as="targetPoint" />
